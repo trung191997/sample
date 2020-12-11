@@ -3,4 +3,5 @@ ngon
 thanh cong
 thanh cong lan 4
 yeu git
-6
+5
+ok
